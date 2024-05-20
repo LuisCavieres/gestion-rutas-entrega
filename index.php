@@ -8,6 +8,7 @@
 <body>
     <div class="container">
         <h1>Lista de Clientes</h1>
+        <h3>Versión 1.1</h3>
         <ul>
             <?php include 'listar_clientes.php'; ?>
         </ul>
